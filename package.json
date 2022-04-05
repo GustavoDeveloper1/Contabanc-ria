@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/GustavoDeveloper1/Contabanc-ria#readme",
   "dependencies": {
-    "chalk": "^5.0.1",
+    "chalk": "^2.4.1",
     "inquire": "^0.4.8"
   }
 }

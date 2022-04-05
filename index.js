@@ -1,5 +1,5 @@
 const inquire = require('inquire');
-const chalk = require('chalk')
+const chalk = require('chalk');
 
 const fs = require('fs');
 
